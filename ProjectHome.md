@@ -1,0 +1,2 @@
+JDFlow是一个以IOC容器为系统总线，以JMX(MX4J)、Socket(Mina)、Webservice(XFire)、JMS(Activemq)、Cache(Memcached、BerkeleyDB)、Aop、JNDI、Rmi、任务调度(Quartz)等为插件的AppServer。通过JGroups对对外接口实现集群，封装JDBC支持分布式事务，优化数据通道支持高并发，构建安全和事务模块保证数据的安全性和一致性，提供Telnent支持监控服务器状态。业务部署器支持组件热部署，配置热修改，Annotation自定义。
+> JDFlow以上面要求为基础，初步完成后进行其它方面的扩展，欢迎有兴趣的朋友加入我们，大家一起探讨，一起研究，一起提高！
